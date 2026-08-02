@@ -5,3 +5,6 @@ belajar dari 0 lagi
 belajar github 30%
 * belajar membuat repositori
 * belajar commit
+
+akakakakakak  
+kakak
