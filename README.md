@@ -6,3 +6,6 @@ belajar dari 0 lagi keren
 - belajar class class yang sering digunakan di bahasa java seperti generic, exception, input output, date time, dan casting
 - berlatih dengan program untuk menghitung suhu air, vokal konsonan, dan bangun datar
 - mengerjakan ujian akhir untuk menilai kemahiran diri
+
+
+ini adalah updatenya
