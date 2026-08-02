@@ -1,5 +1,5 @@
 # progres-belajar
-belajar dari 0 lagi
+belajar dari 0 lagi keren
 
 **20 Juni 2021**  
 - belajar konsep oop (oriented object programming) untuk mempermudah pengembangan sebuah program
